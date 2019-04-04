@@ -1,0 +1,7 @@
+C:\GeekProject\BildingProject\-algorithms_and_data-\AlgoAndData\AlgoAndData\bin\Debug\AlgoAndData.exe.config
+C:\GeekProject\BildingProject\-algorithms_and_data-\AlgoAndData\AlgoAndData\bin\Debug\AlgoAndData.exe
+C:\GeekProject\BildingProject\-algorithms_and_data-\AlgoAndData\AlgoAndData\bin\Debug\AlgoAndData.pdb
+C:\GeekProject\BildingProject\-algorithms_and_data-\AlgoAndData\AlgoAndData\obj\Debug\AlgoAndData.csprojResolveAssemblyReference.cache
+C:\GeekProject\BildingProject\-algorithms_and_data-\AlgoAndData\AlgoAndData\obj\Debug\AlgoAndData.csproj.CoreCompileInputs.cache
+C:\GeekProject\BildingProject\-algorithms_and_data-\AlgoAndData\AlgoAndData\obj\Debug\AlgoAndData.exe
+C:\GeekProject\BildingProject\-algorithms_and_data-\AlgoAndData\AlgoAndData\obj\Debug\AlgoAndData.pdb
